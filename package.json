@@ -1,12 +1,14 @@
 {
   "name": "moneymanager",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
-    "yarn": "^1.12.3"
+    "yarn": "^1.12.3",
+    "zingchart": "^2.8.3",
+    "zingchart-react": "^1.0.6"
   },
   "scripts": {
     "start": "react-scripts start",

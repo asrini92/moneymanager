@@ -1,0 +1,9 @@
+a:link, a:visited { 
+    color: #20ef29;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active { 
+    color: #828f00;
+}
